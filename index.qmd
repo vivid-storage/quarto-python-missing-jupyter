@@ -1,0 +1,11 @@
+---
+title: Python Version Information
+---
+
+# Python Version
+
+```{python}
+import sys
+
+print("Python version:", sys.version)
+```
